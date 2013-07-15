@@ -318,7 +318,7 @@ So let's take a look at the JSON that gets returned.
 
 <img src="http://i.imgur.com/1EyrBY7.png" class="center" />
 
-Oh. Oh, no. That's not something to send back in a JSON response. Somebody might [abuse that](https://gist.github.com/johnduhart/3450c1241a5883f2fe21).
+Oh. Oh, no. That's not something to send back in a JSON response.
 
 ### To Be Continued
 
