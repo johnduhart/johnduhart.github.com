@@ -320,3 +320,6 @@ So let's take a look at the JSON that gets returned.
 
 Oh. Oh, no. That's not something to send back in a JSON response. Somebody might [abuse that](https://gist.github.com/johnduhart/3450c1241a5883f2fe21).
 
+### To Be Continued
+
+I'm going to break this post up in order to get it out quicker. There will be another installment soon.
