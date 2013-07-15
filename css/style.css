@@ -246,6 +246,11 @@ h3 {
     font-size: 18pt;
 }
 
+h4 {
+    font-weight: 700;
+    font-size: 14pt;
+}
+
 .title {
     padding: 0 10px;
 }
