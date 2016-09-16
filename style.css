@@ -1,5 +1,5 @@
 body {
-  background-color: #111;
+  background-color: #2A2D34;
   padding: 2em;
   font-family: "proxima-nova",sans-serif;
   color: #efefef;
@@ -10,9 +10,8 @@ h1 {
   font-size: 2.7em;
   white-space: nowrap;
   letter-spacing: 0.05em;
-
-  color: #efefef;
-  background-color: rgba(85, 85, 85, 0.75);
+  color: #f3f3f3;
+  background-color: #3D5A6C;
   display: inline-block;
   padding: 0.25em;
   margin-left: -0.25em;
@@ -50,5 +49,5 @@ a {
 }
 
 a:hover {
-  color: #888;
+  color: #CDDDDD;
 }
